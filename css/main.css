@@ -55,3 +55,11 @@ body {
 	color: #134946;
 	font-weight: 400;
 }
+
+#emphasis {
+	font-family: "brandon-grotesque", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	color: #1f7d7d;
+	font-weight: 1000;	
+}
