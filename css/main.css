@@ -10,6 +10,9 @@ body {
 	background-color: #134946;
 	font-family: "brandon-grotesque", sans-serif;
 	font-size: 14px;
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
 }
 
 .header .container {
@@ -47,7 +50,8 @@ body {
 }
 .footer p {
 	font-family: "brandon-grotesque", sans-serif;
+	font-style: normal;
 	font-size: 16px;
 	color: #134946;
-	font-weight: 100;
+	font-weight: 400;
 }
