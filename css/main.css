@@ -26,10 +26,9 @@ body {
 }
 .main p {
 	
-	font-family: "brandon-grotesque",sans-serif;
 	font-style: italic;
 	font-weight: 100;
-	font-size: 22px;
+	font-size: 24px;
 	color: #1f7d7d;
 }
 
@@ -49,17 +48,15 @@ body {
 	padding: 5px;
 }
 .footer p {
-	font-family: "brandon-grotesque", sans-serif;
 	font-style: normal;
-	font-size: 16px;
+	font-size: 18px;
 	color: #134946;
 	font-weight: 400;
 }
 
-#emphasis {
-	font-family: "brandon-grotesque", sans-serif;
+.emphasis {
 	font-style: normal;
-	font-size: 16px;
+	font-size: 18px;
 	color: #1f7d7d;
 	font-weight: bold;	
 }
