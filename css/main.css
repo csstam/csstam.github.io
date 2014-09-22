@@ -14,7 +14,9 @@ body {
 	font-size: 16px;
 	font-weight: 400;
 }
-
+img .monogram {
+	padding: 20px;
+}
 .header .container {
 	background-color: #FFF;
 	margin-top: 40px;
@@ -24,12 +26,42 @@ body {
 	border-top-right-radius: 5px;
 	padding: 5px;
 }
-.main p {
+
+.header p {
+	text-align: center;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 24px;
+	color: #134946;
+}
+.header .tagline {
+	text-align: center;
+	font-style: normal;
+	font-size: 20px;
+	color: #1f7d7d;
+	font-weight: 200;
+}
+
+.centred {
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+	}
+.main .bigText {
 	
 	font-style: italic;
 	font-weight: 100;
 	font-size: 24px;
 	color: #1f7d7d;
+}
+.main p {
+	font-style: normal;
+	font-size: 18px;
+	color: #134946;
+	font-weight: 400;
 }
 
 .main .container {
@@ -38,6 +70,7 @@ body {
 	margin-right: auto;
 	padding: 20px;
 }
+
 .footer .container {
 	background-color: #FFF;
 	margin-bottom: 40px;
@@ -60,7 +93,24 @@ body {
 	color: #1f7d7d;
 	font-weight: bold;	
 }
+
 .footer a {
 	text-decoration: none;
 	color: #134946;
+}
+
+.menu-item {
+	font-family: "brandon-grotesque", sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 14px;
+	color: #1f7d7d;
+}
+.dropdown {
+	padding-top: 20px;
+	padding-right: 20px;
+}
+.fa-bars {
+	color: #1f7d7d;
+	display: block;
 }
