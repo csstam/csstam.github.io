@@ -114,3 +114,10 @@ img .monogram {
 	color: #1f7d7d;
 	display: block;
 }
+
+#kform > form > p:nth-child(2) > label {
+	font-style: normal;
+	font-size: 18px;
+	color: #134946;
+	font-weight: 400;
+}
