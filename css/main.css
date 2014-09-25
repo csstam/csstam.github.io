@@ -94,6 +94,8 @@ img .monogram {
 	font-weight: bold;	
 }
 
+
+
 .footer a {
 	text-decoration: none;
 	color: #134946;
@@ -109,6 +111,9 @@ img .monogram {
 .dropdown {
 	padding-top: 20px;
 	padding-right: 20px;
+}
+.dropdown a {
+	text-decoration: none;
 }
 .fa-bars {
 	color: #1f7d7d;
