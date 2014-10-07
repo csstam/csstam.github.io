@@ -44,11 +44,8 @@ img .monogram {
 }
 
 .centred {
-	margin: 0 auto;
-
-	position: relative;
-	left: 50%;
-	transform: translate(-50%);
+	margin: auto;
+	width: 118px;
 	padding-top: 20px;
 	padding-bottom: 10px;
 
