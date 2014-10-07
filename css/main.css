@@ -17,13 +17,14 @@ body {
 img .monogram {
 	padding: 20px;
 }
-.header .container {
+
+.container {
 	background-color: #FFF;
 	margin-top: 40px;
+	margin-bottom: 40px;
 	margin-left: auto;
 	margin-right: auto;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
+	border-radius: 5px;
 	padding: 5px;
 }
 
@@ -43,6 +44,8 @@ img .monogram {
 }
 
 .centred {
+	margin: 0 auto;
+
 	position: relative;
 	left: 50%;
 	transform: translate(-50%);
@@ -56,6 +59,11 @@ img .monogram {
 	font-weight: 100;
 	font-size: 24px;
 	color: #1f7d7d;
+	text-align: center;
+}
+.main {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .main p {
 	font-style: normal;
@@ -63,23 +71,11 @@ img .monogram {
 	color: #134946;
 	font-weight: 400;
 }
+.footer {
+	padding-top: 10px;
 
-.main .container {
-	background-color: #FFF;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 20px;
 }
 
-.footer .container {
-	background-color: #FFF;
-	margin-bottom: 40px;
-	margin-left: auto;
-	margin-right: auto;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
-	padding: 5px;
-}
 .footer p {
 	font-style: normal;
 	font-size: 18px;
@@ -94,7 +90,12 @@ img .monogram {
 	font-weight: bold;	
 }
 
-
+.ruler {
+	width: 80%;
+	height: 1px;
+	margin: 0 auto;
+	background-color: #D0E5E4;
+}
 
 .footer a {
 	text-decoration: none;
