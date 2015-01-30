@@ -3,7 +3,7 @@
 
 @font-face {
 	font-family: "brandon-grotesque", sans-serif;
-	
+
 }
 
 body {
@@ -51,7 +51,7 @@ img .monogram {
 
 	}
 .main .bigText {
-	
+
 	font-style: italic;
 	font-weight: 100;
 	font-size: 24px;
@@ -68,6 +68,11 @@ img .monogram {
 	color: #134946;
 	font-weight: 400;
 }
+
+/*form p {
+	text-align: left;
+}*/
+
 .footer {
 	padding-top: 10px;
 
@@ -84,7 +89,7 @@ img .monogram {
 	font-style: normal;
 	font-size: 18px;
 	color: #1f7d7d;
-	font-weight: bold;	
+	font-weight: bold;
 }
 
 .ruler {
@@ -116,4 +121,13 @@ img .monogram {
 .fa-bars {
 	color: #1f7d7d;
 	display: block;
+}
+
+a.foliolinks {
+	text-decoration:none;
+	color: #134946;
+}
+a.foliolinks:hover {
+	text-decoration:none;
+	color: #1f7d7d;
 }
