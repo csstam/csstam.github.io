@@ -12,7 +12,7 @@ var RecaptchaOptions = {
 
 <script type="text/javascript">
 $(function() {
-  $("input[name=send]").click(function$("input[name=send]").click(function(e) {
+  $("input[name=send]").click(function(e) {
         e.preventDefault();
     // validate and process form here
     var id = $('input[name=id]').val();
@@ -49,7 +49,7 @@ $(function() {
         }
         else //if(html == "Success")
         {
-          $('#kform').html('<div class="success">Your message has been sent successfully</div>');
+          $('#contactform').html('<div class="success">Your message has been sent successfully</div>');
         }
       }
     });
