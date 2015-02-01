@@ -104,6 +104,11 @@ img .monogram {
 	color: #134946;
 }
 
+.footer a:hover {
+	text-decoration: none;
+	color:#1f7d7d;
+}
+
 .menu-item {
 	font-family: "brandon-grotesque", sans-serif;
 	font-style: normal;
@@ -132,5 +137,24 @@ a.foliolinks:hover {
 	color: #1f7d7d;
 }
 .glyphicon-arrow-left {
-	color: #1f7d7d;	
+	color: #1f7d7d;
+}
+
+.contactinfo-block {
+	padding-top: 40px;
+	padding-left: 60px;
+	text-align:left;
+}
+
+a.contactinfo {
+	text-decoration: none;
+	color:#134946;
+}
+a.contactinfo:hover {
+	text-decoration: none;
+	color:#1f7d7d;
+}
+
+.contact-img {
+	padding-top: 40px;
 }
