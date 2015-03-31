@@ -68,6 +68,13 @@ img .monogram {
 	color: #134946;
 	font-weight: 400;
 }
+.main p.additionalinfo {
+	text-align: left;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 16px;
+	color: #134946;
+}
 
 /*form p {
 	text-align: left;
