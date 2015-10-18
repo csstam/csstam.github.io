@@ -43,9 +43,9 @@ img .monogram {
 	font-weight: 200;
 }
 
-.header .menulabel {
+ p.menulabel {
 	font-style: normal;
-	font-size: 18px;
+	font-size: 20px;
 	color: #1f7d7d;
 	font-weight: 200;
 }
