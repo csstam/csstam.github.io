@@ -43,6 +43,13 @@ img .monogram {
 	font-weight: 200;
 }
 
+.header .menulabel {
+	font-style: normal;
+	font-size: 18px;
+	color: #1f7d7d;
+	font-weight: 200;
+}
+
 .centred {
 	margin: auto;
 	width: 118px;
