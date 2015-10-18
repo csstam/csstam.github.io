@@ -12,4 +12,4 @@ It was also a great opportunity to network and meet more people in the industry,
 
 Though I had never previously thought about contributing to WordPress, I really enjoyed spending time sitting with the polyglots team working on WordPress translations. Being a native English speaker, I didn't expect I would have much to contribute and was delighted to find out that I genuinely can give back to the WordPress community.
 
-So I am loving WordPress just as muhc, if not more, than before and looking forward to my next WordPress project. If you have something in mind, drop me an <a href="mailto:cat@catstam.com.au">email</a>!!
+So I am loving WordPress just as much, if not more, than before and looking forward to my next WordPress project. If you have something in mind, drop me an <a href="mailto:cat@catstam.com.au">email</a>!!
