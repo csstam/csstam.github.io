@@ -83,6 +83,12 @@ img .monogram {
 	color: #134946;
 }
 
+.center-image {
+    margin: 0 auto;
+    display: block;
+		width: 80%;
+}
+
 /*form p {
 	text-align: left;
 }*/
